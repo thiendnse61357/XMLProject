@@ -10,7 +10,6 @@ import book.DTO.ProductDTOList;
 import java.io.Serializable;
 import java.io.StringWriter;
 import javax.xml.bind.JAXBContext;
-import javax.xml.bind.JAXBException;
 import javax.xml.bind.Marshaller;
 
 /**
@@ -29,7 +28,7 @@ public class XMLUtils implements Serializable {
             StringWriter sw = new StringWriter();
             mar.marshal(items, sw);
             return sw.toString();
-        } catch (JAXBException e) {
+        } catch (Exception e) {
             e.printStackTrace();
         }
         return null;
@@ -45,7 +44,7 @@ public class XMLUtils implements Serializable {
             StringWriter sw = new StringWriter();
             mar.marshal(items, sw);
             return sw.toString();
-        } catch (JAXBException e) {
+        } catch (Exception e) {
             e.printStackTrace();
         }
         return null;

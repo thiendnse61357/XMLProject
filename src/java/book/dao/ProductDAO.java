@@ -13,6 +13,7 @@ import java.sql.Connection;
 import java.sql.PreparedStatement;
 import java.sql.ResultSet;
 import java.sql.SQLException;
+import java.util.List;
 import java.util.logging.Level;
 import java.util.logging.Logger;
 
@@ -22,16 +23,9 @@ import java.util.logging.Logger;
  */
 public class ProductDAO implements Serializable {
 
-    ProductDTOList items;
-    ProductDTOList randomItems; 
+    ProductDTOList items = new ProductDTOList();
+    ProductDTOList randomItems = new ProductDTOList();
 
-    public ProductDAO() {
-        items = new ProductDTOList();
-        randomItems = new ProductDTOList();
-    }
-    
-    
-    
     public ProductDTOList getItems() {
         return items;
     }
@@ -81,6 +75,7 @@ public class ProductDAO implements Serializable {
         ResultSet rs = null;
         try {
             con = DBUtils.makeConnection();
+            System.out.println("Random Product DAO: ");
             String sql = "SELECT TOP 5 * FROM tblProduct ORDER BY NEWID()";
             stm = con.prepareStatement(sql);
             rs = stm.executeQuery();
@@ -109,15 +104,17 @@ public class ProductDAO implements Serializable {
             }
         }
     }
-    
-//    public static void main(String[] args) {
-//        ProductDAO dao = new ProductDAO();
-//        try {
-//            dao.getRandomProduct();
-//            ProductDTOList list = dao.getRandomItems();
-//            System.out.println(list);
-//        } catch (SQLException ex) {
-//            Logger.getLogger(ProductDAO.class.getName()).log(Level.SEVERE, null, ex);
-//        }
-//    }
+
+    public static void main(String[] args) {
+        ProductDAO dao = new ProductDAO();
+        try {
+            dao.getRandomProduct();
+            ProductDTOList list = dao.getRandomItems();
+            List<ProductDTO> listProduct = list.getProduct();
+            System.out.println(listProduct.size());
+        } catch (SQLException ex) {
+            Logger.getLogger(ProductDAO.class.getName()).log(Level.SEVERE, null, ex);
+      
+        }
+    }
 }
