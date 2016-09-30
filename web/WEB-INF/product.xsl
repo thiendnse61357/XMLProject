@@ -1,4 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
+
+<!--
+    Document   : category.xsl
+    Created on : September 29, 2016, 3:31 PM
+    Author     : thiendn
+    Description:
+        Purpose of transformation follows.
+-->
 <xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform" version="1.0">
     <xsl:output method="html" indent="yes" encoding="UTF-8"/>
     <xsl:template match="/">
