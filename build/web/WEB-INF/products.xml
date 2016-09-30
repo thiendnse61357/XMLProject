@@ -1,0 +1,570 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+-->
+
+
+<products>
+    <product id='1'>
+        <name>
+            Cuon theo chieu gio
+        </name>
+        <image>
+            sdf
+        </image>
+        <description>
+            1 cuon sach hay
+        </description>
+        <price>
+            1000
+        </price>
+        <category>
+            1
+        </category>
+        <author>
+            dang nhat thien
+        </author>
+    </product>
+    <product id='2'>
+        <name>
+            Troi theo con mua
+        </name>
+        <image>
+            sdf
+        </image>
+        <description>
+            1 cuon sach hay
+        </description>
+        <price>
+            1000
+        </price>
+        <category>
+            1
+        </category>
+        <author>
+            dang nhat thien
+        </author>
+    </product>
+    <product id='1'>
+        <name>
+            Cuon theo chieu gio
+        </name>
+        <image>
+            sdf
+        </image>
+        <description>
+            1 cuon sach hay
+        </description>
+        <price>
+            1000
+        </price>
+        <category>
+            1
+        </category>
+        <author>
+            dang nhat thien
+        </author>
+    </product>
+    <product id='2'>
+        <name>
+            Troi theo con mua
+        </name>
+        <image>
+            sdf
+        </image>
+        <description>
+            1 cuon sach hay
+        </description>
+        <price>
+            1000
+        </price>
+        <category>
+            1
+        </category>
+        <author>
+            dang nhat thien
+        </author>
+    </product>
+    <product id='1'>
+        <name>
+            Cuon theo chieu gio
+        </name>
+        <image>
+            sdf
+        </image>
+        <description>
+            1 cuon sach hay
+        </description>
+        <price>
+            1000
+        </price>
+        <category>
+            1
+        </category>
+        <author>
+            dang nhat thien
+        </author>
+    </product>
+    <product id='2'>
+        <name>
+            Troi theo con mua
+        </name>
+        <image>
+            sdf
+        </image>
+        <description>
+            1 cuon sach hay
+        </description>
+        <price>
+            1000
+        </price>
+        <category>
+            1
+        </category>
+        <author>
+            dang nhat thien
+        </author>
+    </product>
+    <product id='1'>
+        <name>
+            Cuon theo chieu gio
+        </name>
+        <image>
+            sdf
+        </image>
+        <description>
+            1 cuon sach hay
+        </description>
+        <price>
+            1000
+        </price>
+        <category>
+            1
+        </category>
+        <author>
+            dang nhat thien
+        </author>
+    </product>
+    <product id='2'>
+        <name>
+            Troi theo con mua
+        </name>
+        <image>
+            sdf
+        </image>
+        <description>
+            1 cuon sach hay
+        </description>
+        <price>
+            1000
+        </price>
+        <category>
+            1
+        </category>
+        <author>
+            dang nhat thien
+        </author>
+    </product>
+    <product id='1'>
+        <name>
+            Cuon theo chieu gio
+        </name>
+        <image>
+            sdf
+        </image>
+        <description>
+            1 cuon sach hay
+        </description>
+        <price>
+            1000
+        </price>
+        <category>
+            1
+        </category>
+        <author>
+            dang nhat thien
+        </author>
+    </product>
+    <product id='2'>
+        <name>
+            Troi theo con mua
+        </name>
+        <image>
+            sdf
+        </image>
+        <description>
+            1 cuon sach hay
+        </description>
+        <price>
+            1000
+        </price>
+        <category>
+            1
+        </category>
+        <author>
+            dang nhat thien
+        </author>
+    </product>
+    <product id='1'>
+        <name>
+            Cuon theo chieu gio
+        </name>
+        <image>
+            sdf
+        </image>
+        <description>
+            1 cuon sach hay
+        </description>
+        <price>
+            1000
+        </price>
+        <category>
+            1
+        </category>
+        <author>
+            dang nhat thien
+        </author>
+    </product>
+    <product id='2'>
+        <name>
+            Troi theo con mua
+        </name>
+        <image>
+            sdf
+        </image>
+        <description>
+            1 cuon sach hay
+        </description>
+        <price>
+            1000
+        </price>
+        <category>
+            1
+        </category>
+        <author>
+            dang nhat thien
+        </author>
+    </product>
+    <product id='1'>
+        <name>
+            Cuon theo chieu gio
+        </name>
+        <image>
+            sdf
+        </image>
+        <description>
+            1 cuon sach hay
+        </description>
+        <price>
+            1000
+        </price>
+        <category>
+            1
+        </category>
+        <author>
+            dang nhat thien
+        </author>
+    </product>
+    <product id='2'>
+        <name>
+            Troi theo con mua
+        </name>
+        <image>
+            sdf
+        </image>
+        <description>
+            1 cuon sach hay
+        </description>
+        <price>
+            1000
+        </price>
+        <category>
+            1
+        </category>
+        <author>
+            dang nhat thien
+        </author>
+    </product>
+    <product id='1'>
+        <name>
+            Cuon theo chieu gio
+        </name>
+        <image>
+            sdf
+        </image>
+        <description>
+            1 cuon sach hay
+        </description>
+        <price>
+            1000
+        </price>
+        <category>
+            1
+        </category>
+        <author>
+            dang nhat thien
+        </author>
+    </product>
+    <product id='2'>
+        <name>
+            Troi theo con mua
+        </name>
+        <image>
+            sdf
+        </image>
+        <description>
+            1 cuon sach hay
+        </description>
+        <price>
+            1000
+        </price>
+        <category>
+            1
+        </category>
+        <author>
+            dang nhat thien
+        </author>
+    </product>
+    <product id='1'>
+        <name>
+            Cuon theo chieu gio
+        </name>
+        <image>
+            sdf
+        </image>
+        <description>
+            1 cuon sach hay
+        </description>
+        <price>
+            1000
+        </price>
+        <category>
+            1
+        </category>
+        <author>
+            dang nhat thien
+        </author>
+    </product>
+    <product id='2'>
+        <name>
+            Troi theo con mua
+        </name>
+        <image>
+            sdf
+        </image>
+        <description>
+            1 cuon sach hay
+        </description>
+        <price>
+            1000
+        </price>
+        <category>
+            1
+        </category>
+        <author>
+            dang nhat thien
+        </author>
+    </product>
+    <product id='1'>
+        <name>
+            Cuon theo chieu gio
+        </name>
+        <image>
+            sdf
+        </image>
+        <description>
+            1 cuon sach hay
+        </description>
+        <price>
+            1000
+        </price>
+        <category>
+            1
+        </category>
+        <author>
+            dang nhat thien
+        </author>
+    </product>
+    <product id='2'>
+        <name>
+            Troi theo con mua
+        </name>
+        <image>
+            sdf
+        </image>
+        <description>
+            1 cuon sach hay
+        </description>
+        <price>
+            1000
+        </price>
+        <category>
+            1
+        </category>
+        <author>
+            dang nhat thien
+        </author>
+    </product>
+    <product id='1'>
+        <name>
+            Cuon theo chieu gio
+        </name>
+        <image>
+            sdf
+        </image>
+        <description>
+            1 cuon sach hay
+        </description>
+        <price>
+            1000
+        </price>
+        <category>
+            1
+        </category>
+        <author>
+            dang nhat thien
+        </author>
+    </product>
+    <product id='2'>
+        <name>
+            Troi theo con mua
+        </name>
+        <image>
+            sdf
+        </image>
+        <description>
+            1 cuon sach hay
+        </description>
+        <price>
+            1000
+        </price>
+        <category>
+            1
+        </category>
+        <author>
+            dang nhat thien
+        </author>
+    </product>
+    <product id='1'>
+        <name>
+            Cuon theo chieu gio
+        </name>
+        <image>
+            sdf
+        </image>
+        <description>
+            1 cuon sach hay
+        </description>
+        <price>
+            1000
+        </price>
+        <category>
+            1
+        </category>
+        <author>
+            dang nhat thien
+        </author>
+    </product>
+    <product id='2'>
+        <name>
+            Troi theo con mua
+        </name>
+        <image>
+            sdf
+        </image>
+        <description>
+            1 cuon sach hay
+        </description>
+        <price>
+            1000
+        </price>
+        <category>
+            1
+        </category>
+        <author>
+            dang nhat thien
+        </author>
+    </product>
+    <product id='1'>
+        <name>
+            Cuon theo chieu gio
+        </name>
+        <image>
+            sdf
+        </image>
+        <description>
+            1 cuon sach hay
+        </description>
+        <price>
+            1000
+        </price>
+        <category>
+            1
+        </category>
+        <author>
+            dang nhat thien
+        </author>
+    </product>
+    <product id='2'>
+        <name>
+            Troi theo con mua
+        </name>
+        <image>
+            sdf
+        </image>
+        <description>
+            1 cuon sach hay
+        </description>
+        <price>
+            1000
+        </price>
+        <category>
+            1
+        </category>
+        <author>
+            dang nhat thien
+        </author>
+    </product>
+    <product id='1'>
+        <name>
+            Cuon theo chieu gio
+        </name>
+        <image>
+            sdf
+        </image>
+        <description>
+            1 cuon sach hay
+        </description>
+        <price>
+            1000
+        </price>
+        <category>
+            1
+        </category>
+        <author>
+            dang nhat thien
+        </author>
+    </product>
+    <product id='2'>
+        <name>
+            Troi theo con mua
+        </name>
+        <image>
+            sdf
+        </image>
+        <description>
+            1 cuon sach hay
+        </description>
+        <price>
+            1000
+        </price>
+        <category>
+            1
+        </category>
+        <author>
+            dang nhat thien
+        </author>
+    </product>
+</products>

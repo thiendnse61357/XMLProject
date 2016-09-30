@@ -1,0 +1,93 @@
+
+#menu_tab {
+    width: 1000px;
+    height: 50px;
+}
+
+.left_menu_corner {
+    width: 9px;
+    height: 50px;
+    float: left;
+    background: url(../images/menu_left.gif) no-repeat center;
+}
+
+.right_menu_corner {
+    width: 9px;
+    height: 50px;
+    float: left;
+    background: url(../images/menu_right.gif) no-repeat center;
+}
+
+ul.menu {
+    width: 1000px;
+    float: left;
+    /*background: url(../images/menu_bg.gif) repeat-x;*/
+    background: #444;
+    /*background: #11252F;*/
+    list-style: none;
+    display: block;
+}
+
+ul.menu li {
+        display: inline;
+        font-size: 11px;
+        font-weight: bold;
+        line-height: 50px;
+   
+}
+ul.menu li:hover{
+    /*background-color: rgba(0,0,0,0.5);*/
+}
+ul.menu li.divider {
+    display: inline;
+    width: 2px;
+    height: 50px;
+    float: left;
+    background: url(../images/menu_divider.gif) no-repeat center;
+}
+
+ul.menu li a, ul.menu li a:visited {
+    display: block;
+    float: left;
+    padding: 0 8px 0 22px;
+    margin: 0 14px;
+    height: 50px;
+    text-decoration: none;
+    color: white;
+    font-size: 12px;
+}
+ul.menu li a:hover {
+    color: gray;
+}
+
+#nav_home {
+    /*background: url(../images/home.png) no-repeat left;*/
+}
+
+#nav_pro {
+    /*background: url(../images/services.png) no-repeat left;*/
+}
+
+#nav_spec {
+    /*background: url(../images/favs.png) no-repeat left;*/
+}
+
+#nav_acc, #nav_sign {
+    /*background: url(../images/user_add.png) no-repeat left;*/
+}
+
+#nav_ship {
+    /*background: url(../images/car.png) no-repeat left;*/
+}
+
+#nav_cont {
+    /*background: url(../images/contact-new.png) no-repeat left;*/
+}
+
+li.currencies {
+    width: 180px;
+    float: left;
+    padding: 0 0 0 15px;
+    font-size: 11px;
+    font-weight: bold;
+}

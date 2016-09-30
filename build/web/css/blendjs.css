@@ -1,0 +1,21 @@
+.blend_js{
+    width: 1000px;
+    height: 400px;
+    margin: 5px 0;
+}
+.blend_slide{
+    float: left;
+    width: 690px;
+    height: 400px;
+}
+.blend_slide img#blendImg{
+    float: left;
+    width: 690px;
+    height: 350px;
+}
+.book_new{
+    float: left;
+    width: 310px;
+    height: 400px;
+     
+}
