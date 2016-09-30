@@ -32,7 +32,7 @@
             <td style="width: 150px;">
                 <img style="">
                     <xsl:attribute name="src">
-                        <xsl:value-of select="productImage"/>
+                        <xsl:value-of select="image"/>
                     </xsl:attribute>    
                 </img>
             </td>
@@ -44,7 +44,7 @@
                             <xsl:attribute name="href">
                                 <xsl:value-of select="productLink"/>
                             </xsl:attribute>
-                            <xsl:value-of select="productName"/>
+                            <xsl:value-of select="name"/>
                         </xsl:element>
                         <br/>
                     </p>
@@ -53,9 +53,9 @@
                             <xsl:value-of select="author"/>
                         </p>
                     </p>
-                    <p class="p_title">Type:
+                    <p class="p_title">Category:
                         <p class="cover">
-                            <xsl:value-of select="type"/>
+                            <xsl:value-of select="category"/>
                         </p>
                     </p>
                     <p class="p_title">New Price: <p class="price">
@@ -64,7 +64,7 @@
                     </p>
                     <p class="p_title">Old Price: 
                         <p class="p_old-price">
-                            <xsl:value-of select="oldPrice"/>000
+                            <xsl:value-of select="price"/>000
                         </p>
                     </p>
                 </div>
